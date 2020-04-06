@@ -1,0 +1,4 @@
+{
+    "name": "avtomon/inputmask",
+    "description": "Inputmask is a javascript library which creates an input mask.  Inputmask can run against vanilla javascript, jQuery and jqlite."
+}
